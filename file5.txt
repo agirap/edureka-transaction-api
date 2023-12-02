@@ -1,1 +1,3 @@
 This is file5.txt on master 
+This is file5.txt added to feature-branch
+resolved conflict after merge from feature-branch to master 
